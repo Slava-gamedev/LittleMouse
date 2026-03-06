@@ -1,2 +1,2 @@
 # LittleMouse
-My second game
+My second-ever game
